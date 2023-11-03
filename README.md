@@ -1,4 +1,4 @@
-# news_snack
+# news_wave
 
 A new Flutter project.
 
